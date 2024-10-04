@@ -1,4 +1,47 @@
+/*
+    1. Introduction to TypeScript
+        What is TypeScript?
+        Benefits of using TypeScript over JavaScript
+        Setting up the TypeScript environment
+        Installing TypeScript
+        Compiling TypeScript to JavaScript
+        Basic TypeScript configuration (tsconfig.json)
+*/
+/*
+    2. Basic Types
+        Primitive Types: number, string, boolean
+        any, unknown, never, void
+        Arrays and Tuples
+        Enums
+        Type inference
+        Type assertions (casting)
 
+*/
+/*
+    3. Functions in TypeScript
+        Function types and signatures
+        Optional and default parameters
+        Rest parameters
+        Function overloads
+*/
+
+/*
+    4. Interfaces and Type Aliases
+        Defining and implementing interfaces
+        Extending interfaces
+        Type aliases and their uses
+        Difference between interfaces and type aliases
+*/
+
+/*
+    5. Classes and Object-Oriented Programming
+        Classes and constructors
+        Public, private, protected, and readonly modifiers
+        Inheritance and extending classes
+        Abstract classes and methods
+        Static properties and methods
+        Interfaces with classes
+*/
 
 /*
     6. Generics
